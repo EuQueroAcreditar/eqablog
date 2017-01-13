@@ -13,6 +13,6 @@ function posthg(){
 }
 ```
 
-Para criar páginas ao invés de posts simplesmente utilizo outra função apenas com o nome e a pasta diferente. Para maior simplicidade e leveza uso [1k](https://github.com/HackerGaucho/1k), uma pequeno framework em CSS que desenvolvi ad-hoc. 
+Para maior simplicidade e leveza uso [1k](https://github.com/HackerGaucho/1k), uma pequeno framework responsivo em CSS3 puro que desenvolvi ad-hoc. 
 
 Seu código fonte está disponível no [Github](https://github.com/HackerGaucho/hgblog). 
