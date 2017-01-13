@@ -1,10 +1,6 @@
 Fri, 13 Jan 2017 16:09:34 -0200
 
-Criei esse blog como uma alternativa mais simples aos sistemas engessados disponíveis atualmente.
-
-Blogs estáticos normalmente compilam o markdown para gerar o html, este blog não faz isso.
-
-Este blog foi criado em apenas dois dias com o foco na simplicidade. Para criar posts por exemplo uso a seguinte função em shell script:
+Blogs estáticos geralmente compilam o markdown para gerar o html, este blog não faz isso. Ele foi criado por mim em apenas dois dias com o foco na simplicidade, para criar posts por exemplo uso a seguinte função em shell script:
 
 ```
 function posthg(){
@@ -15,6 +11,6 @@ function posthg(){
 }
 ```
 
-Para criar páginas ao invés de posts simplesmente utilizo outra função apenas com o nome e a pasta diferente.
+Para criar páginas ao invés de posts simplesmente utilizo outra função apenas com o nome e a pasta diferente. Para maior simplicidade e leveza ele utiliza o [1k](https://github.com/HackerGaucho/1k) no front-end. 
 
-Ele usa arquivos markdown no back-end e o [1k](https://github.com/HackerGaucho/1k) no front-end. Seu código fonte disponível no [Github](https://github.com/HackerGaucho/hgblog). 
+Seu código fonte disponível no [Github](https://github.com/HackerGaucho/hgblog). 
