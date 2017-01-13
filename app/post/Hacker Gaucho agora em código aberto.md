@@ -1,6 +1,8 @@
 Fri, 13 Jan 2017 16:09:34 -0200
 
-Esse blog foi desenvolvido com o foco na simplicidade. Para criar posts por exemplo uso a seguinte função em shell script:
+Esse blog foi desenvolvido com o foco na simplicidade. Ele gera html on the fly, não possui CLI e a GUI é extremamente leve.
+
+Para criar posts utilizo a seguinte função em shell script:
 
 ```
 function posthg(){
@@ -11,6 +13,6 @@ function posthg(){
 }
 ```
 
-Para criar páginas ao invés de posts simplesmente utilizo outra função apenas com o nome e a pasta diferente. Para maior simplicidade e leveza uso o [1k](https://github.com/HackerGaucho/1k) no front-end. 
+Para criar páginas ao invés de posts simplesmente utilizo outra função apenas com o nome e a pasta diferente. Para maior simplicidade e leveza uso [1k](https://github.com/HackerGaucho/1k), uma pequeno framework em CSS que desenvolvi ad-hoc. 
 
 Seu código fonte está disponível no [Github](https://github.com/HackerGaucho/hgblog). 
