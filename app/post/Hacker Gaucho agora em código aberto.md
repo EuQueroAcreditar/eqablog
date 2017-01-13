@@ -1,6 +1,6 @@
 Fri, 13 Jan 2017 16:09:34 -0200
 
-Blogs estáticos geralmente compilam o markdown para gerar o html, este blog não faz isso. Ele foi criado com o foco na simplicidade. Para criar posts por exemplo uso a seguinte função em shell script:
+Esse blog foi desenvolvido com o foco na simplicidade. Para criar posts por exemplo uso a seguinte função em shell script:
 
 ```
 function posthg(){
