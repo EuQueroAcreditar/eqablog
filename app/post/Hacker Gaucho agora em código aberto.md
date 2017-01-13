@@ -11,6 +11,6 @@ function posthg(){
 }
 ```
 
-Para criar páginas ao invés de posts simplesmente utilizo outra função apenas com o nome e a pasta diferente. Para maior simplicidade e leveza ele utiliza o [1k](https://github.com/HackerGaucho/1k) no front-end. 
+Para criar páginas ao invés de posts simplesmente utilizo outra função apenas com o nome e a pasta diferente. Para maior simplicidade e leveza uso o [1k](https://github.com/HackerGaucho/1k) no front-end. 
 
 Seu código fonte está disponível no [Github](https://github.com/HackerGaucho/hgblog). 
