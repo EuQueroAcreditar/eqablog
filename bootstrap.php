@@ -30,6 +30,16 @@ function htmlList($array,$assoc=true){
     }
 }
 
+function isDev(){
+        $end=@end(explode('.',$_SERVER['SERVER_NAME']));
+        if($end==='dev' && $end==='git'){
+                return true;
+        }else{
+                error_reporting(0);
+                return false;
+        }
+}
+
 function ls($dir){
     $ignored = array( '.svn','.swp', '.htaccess');
     $files = array();
