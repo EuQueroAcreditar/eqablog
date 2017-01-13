@@ -1,0 +1,20 @@
+{
+  "name": "hgblog",
+  "authors": [
+    "Anderson Ismael <AiCoutoS@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "1k": "*"
+  }
+}

@@ -1,0 +1,24 @@
+<IfModule mod_rewrite.c>
+# BEGIN WordPress
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+# END WordPress
+
+#TELAS DE ERRO
+ErrorDocument 403 /index.php
+ErrorDocument 404 /index.php
+
+#SEGURANÇA
+RewriteRule ^controller/(.*)?$ - [F]
+RewriteRule ^error/(.*)?$ - [F]
+RewriteRule ^inc/(.*)?$ - [F]
+RewriteRule ^make - [F]
+RewriteRule ^post/(.*)?$ - [F]
+RewriteRule ^vendor/(.*)?$ - [F]
+RewriteRule ^view/(.*)?$ - [F]
+RewriteRule ^(composer|bower)\.(json|lock)$ - [F]
+</IfModule>

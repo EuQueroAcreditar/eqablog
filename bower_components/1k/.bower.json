@@ -1,0 +1,32 @@
+{
+  "name": "1k",
+  "authors": [
+    "Anderson Ismael <AiCoutoS@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "dist/1k.min.css",
+  "keywords": [
+    "css",
+    "grid",
+    "markdown"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/AiCoutoS/1k",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "5b8ee3a4fd",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "5b8ee3a4fdd697b4ef491169701aac14bb46ee05"
+  },
+  "_source": "https://github.com/AiCoutoS/1k.git",
+  "_target": "*",
+  "_originalSource": "1k",
+  "_direct": true
+}

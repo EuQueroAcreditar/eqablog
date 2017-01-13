@@ -1,0 +1,15 @@
+<?php
+$data['title']=slug($request->slug,false);
+$filename=ROOT.'app/page/'.$data['title'].'.md';
+if(file_exists($filename)){
+  $post=file_get_contents($filename);
+  $post=explode(PHP_EOL,$post);
+  $data['date']=$post[0];
+  unset($post[0]);
+  $post=trim(implode(PHP_EOL,$post));
+  $data['post']=md($post);
+  view('post',$data);
+}else{
+  notfound();
+}
+?>
