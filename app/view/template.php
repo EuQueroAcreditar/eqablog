@@ -44,7 +44,7 @@
             <div class="g12 text-center">
                 <hr>
                 <p class="center">
-                    <a href="https://fb.com/HackerGaucho">Facebook</a> »
+                    <a href="https://fb.com/aicoutos">Facebook</a> »
                     <a href="https://github.com/aicoutos">Github</a>
                 </p>
             </div>
