@@ -15,6 +15,7 @@
     <!-- endbower -->
     <!-- bower:js -->
     <!-- endbower -->
+    <link rel="stylesheet" href="/asset/css/main.css">
     <link rel="icon" type="image/png" href="/asset/img/favicon.png" />
 </head>
 <body>
@@ -26,12 +27,20 @@
                     <br>
                     <i>Anderson Ismael</i>
                     <br>
-                    <a href="/">Blog</a> »
-                    <a href="/page/Sobre">Sobre</a>
+                    <a href="/">Home</a> »
+                    <a href="/page/Sobre">Sobre</a> »
+                    <a href="/">Contato</a>
                 </p>
                 <hr>
             </div>
-            <div class="g12">
+            <div class="g3">
+                <h1>Menu</h1>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/page/Back-end">Back-end</a></li>
+                </ul>
+            </div>
+            <div class="g9">
                 <?php print @$content;?>
             </div>
         </div>
