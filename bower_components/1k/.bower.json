@@ -27,6 +27,7 @@
     "commit": "9a9745b07b409ea78521c5c52541b61e7162233f"
   },
   "_source": "https://github.com/AiCoutoS/1k.git",
-  "_target": "*",
-  "_originalSource": "1k"
+  "_target": "^1.1.0",
+  "_originalSource": "1k",
+  "_direct": true
 }
