@@ -1,8 +1,8 @@
 Sat, 14 Jan 2017 06:52:24 -0200
 
-A vida profissional de um programador back-end é como uma escada onde cada degrau corresponde a um aumento na complexidade e sofisticação do sistema.
+A vida profissional de um programador back-end é como uma escada onde cada degrau corresponde a um aumento na complexidade e sofisticação dos sistemas desenvolvidos por ele.
 
-Cada desenvolvedor é livre para criar suas próprias metas de acordo com a sua vontade. Abaixo estão meus 8 passos para o back-end:
+Cada desenvolvedor é livre para criar seus próprios sistemas ou usá-los como metas de acordo com a sua vontade. Abaixo estão meus 8 passos para o back-end:
 
 1. Site estático simples (html puro)
 1. [Blog estático com markdown](/post/Como_fiz_meu_blog)
@@ -12,3 +12,5 @@ Cada desenvolvedor é livre para criar suas próprias metas de acordo com a sua 
 1. Área administrativa com banco de dados e avatar
 1. Rede social simples (requisições sincronas)
 1. Rede social complexa (requisições assincronas)
+1. Sistema de manipulação de audio
+1. Sistema de manipulação de video

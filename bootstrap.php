@@ -91,6 +91,14 @@ function strposarray($haystack, $needles=array(), $offset=0) {
     return min($chr);
 }
 
+function uri($raw=false){
+    if($raw){
+        return $_SERVER['REQUEST_URI'];
+    }else{
+        return @explode('?',$_SERVER['REQUEST_URI'])[0];
+    }
+}
+
 function view($view,$data=[]){
     extract($data);
     require ROOT.'app/view/'.$view.'.php';
