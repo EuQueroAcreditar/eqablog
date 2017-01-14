@@ -1,6 +1,8 @@
 Fri, 13 Jan 2017 16:09:34 -0200
 
-Criei o *hgblog* em cerca de dois dias. Ele gera html on the fly, não possui CLI e a GUI é extremamente leve.
+Criei o *hgblog* com foco na simplicidade. Ele não possui CLI e a GUI é extremamente leve.
+
+Tenho dúvidas se devo chamar o *hgblog* de blog estático ou dinâmico pois ele gera html on the fly,
 
 Para criar posts utilizo a seguinte função em shell script:
 
