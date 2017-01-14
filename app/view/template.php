@@ -15,7 +15,6 @@
     <!-- endbower -->
     <!-- bower:js -->
     <!-- endbower -->
-    <link rel="stylesheet" href="/asset/css/main.css">
     <link rel="icon" type="image/png" href="/asset/img/favicon.png" />
 </head>
 <body>
