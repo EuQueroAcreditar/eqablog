@@ -1,8 +1,9 @@
 Sat, 14 Jan 2017 06:52:24 -0200
 
-A vida profissional de um programador back-end é como uma escada onde cada degrau corresponde a um aumento na complexidade e sofisticação do sistema. Escolhi alguns sistemas para analisar a minha ascensão pelos degraus dessa profissão:
+A vida profissional de um programador back-end é como uma escada onde cada degrau corresponde a um aumento na complexidade e sofisticação do sistema.
 
-## Degraus
+Cada desenvolvedor é livre para criar suas próprias metas de acordo com a sua vontade. Abaixo estão meus 8 passos para o back-end:
+
 1. Site estático simples (html puro)
 1. [Blog estático com markdown](/post/Blog_estático_com_markdown)
 1. Guestbook simples com banco de dados (posts anônimos)
