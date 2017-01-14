@@ -19,14 +19,13 @@
     "test",
     "tests"
   ],
-  "_release": "5b8ee3a4fd",
+  "_release": "29be319b9d",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "5b8ee3a4fdd697b4ef491169701aac14bb46ee05"
+    "commit": "29be319b9dd8c369f4d7d40c99d2347f02a2aac4"
   },
   "_source": "https://github.com/AiCoutoS/1k.git",
   "_target": "*",
-  "_originalSource": "1k",
-  "_direct": true
+  "_originalSource": "1k"
 }
