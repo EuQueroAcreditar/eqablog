@@ -51,13 +51,14 @@ function ls($dir){
         }
 
     }
-    asort($files);
     $files = array_keys($files);
     if(is_array($files)){
-        return array_diff( $files, ['.','..'] );
+        $files=array_diff( $files, ['.','..'] );
     }else{
-        return false;
+        $files=false;
     }
+    natcasesort($files);
+    return $files;
 }
 
 function md($text){
