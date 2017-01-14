@@ -1,6 +1,6 @@
 Fri, 13 Jan 2017 16:09:34 -0200
 
-Primeiramente pensei na simplicidade, este blog na versão [1.0.0](https://github.com/HackerGaucho/hgblog/releases/tag/1.0.0) não possui CLI e a GUI é extremamente leve.
+Primeiramente pensei na simplicidade. Este blog na versão [1.0.0](https://github.com/HackerGaucho/hgblog/releases/tag/1.0.0) ainda não possui CLI e a GUI é extremamente leve.
 
 Tenho dúvidas se devo chamá-lo de blog estático ou dinâmico pois ele gera html on the fly ao invés de compilá-lo previamente.
 
