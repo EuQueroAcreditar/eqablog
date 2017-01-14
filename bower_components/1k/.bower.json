@@ -4,7 +4,7 @@
     "Anderson Ismael <AiCoutoS@users.noreply.github.com>"
   ],
   "description": "CSS grid, formulários e markdown (blockquote, code e tabelas) em menos de 1k ",
-  "main": "dist/1k.min.css?v=1.0.2",
+  "main": "dist/1k.css",
   "keywords": [
     "css",
     "grid",
@@ -19,15 +19,14 @@
     "test",
     "tests"
   ],
-  "version": "1.1.0",
-  "_release": "1.1.0",
+  "version": "1.1.1",
+  "_release": "1.1.1",
   "_resolution": {
     "type": "version",
-    "tag": "1.1.0",
-    "commit": "9a9745b07b409ea78521c5c52541b61e7162233f"
+    "tag": "1.1.1",
+    "commit": "f0f184a5a98ccc1cc4bd13c2e460bbcbb751ba75"
   },
   "_source": "https://github.com/AiCoutoS/1k.git",
-  "_target": "^1.1.0",
-  "_originalSource": "1k",
-  "_direct": true
+  "_target": "1.1.1",
+  "_originalSource": "1k"
 }
