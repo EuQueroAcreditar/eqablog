@@ -22,14 +22,30 @@ function filtrarPosts() {
     for (i = 0; i < post.length; i++) {
         link = post[i].getElementsByTagName("a")[0];
         if (link) {
-            if (link.innerHTML.toUpperCase().indexOf(filter) > -1) {
+            if (link.innerHTML.toUpperCase().indexOf(filter) > -1) {       
                 post[i].style.display = "";
-                status.style.display = "none";
-            } else {
+
+            } else {          
                 post[i].style.display = "none";
-                status.style.display = "block";
             }
         }
+    }
+
+	posts = document.querySelectorAll('#posts > li');
+	var postsArray = [].slice.call(posts);
+	var displayNone = postsArray.filter(function(el) {
+		return getComputedStyle(el).display === "none"
+	});
+	var displayShow = postsArray.filter(function(el) {
+		return getComputedStyle(el).display !== "none"
+	});
+	var numberOfHiddenPosts = displayNone.length;
+	var numberOfVisiblePosts = displayShow.length;    
+    
+    if(numberOfVisiblePosts>0){
+    	status.style.display = "none";         
+    }else{
+        status.style.display = "block";      
     }
 }
 </script>
