@@ -11,7 +11,7 @@
     ?>
     <title><?php print @$title;?></title>
     <!-- bower:css -->
-    <link rel="stylesheet" href="../../bower_components/1k/dist/1k.css" />
+    <link rel="stylesheet" href="../../bower_components/1k/dist/1k.css?v=1.1.1" />
     <!-- endbower -->
     <!-- bower:js -->
     <!-- endbower -->
