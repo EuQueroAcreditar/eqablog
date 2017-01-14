@@ -25,8 +25,6 @@
                 <p class="center">
                     <a href="/" title="Hacker Gaucho"><img src="/asset/img/favicon.png" width="150" style="border:0;" alt="Hacker Gaucho"></a>
                     <br>
-                    <i>Anderson Ismael</i>
-                    <br>
                     <a href="/page/Sobre">Sobre</a> <!--»
                     <a href="/">Contato</a>-->
                 </p>
