@@ -28,8 +28,8 @@
                     <i>Anderson Ismael</i>
                     <br>
                     <a href="/">Home</a> »
-                    <a href="/page/Sobre">Sobre</a> »
-                    <a href="https://www.facebook.com/hackergaucho/messages">Contato</a>
+                    <a href="/page/Sobre">Sobre</a> <!--»
+                    <a href="/">Contato</a>-->
                 </p>
                 <hr>
             </div>
