@@ -29,7 +29,7 @@
                     <br>
                     <a href="/">Home</a> »
                     <a href="/page/Sobre">Sobre</a> »
-                    <a href="/">Contato</a>
+                    <a href="https://www.facebook.com/hackergaucho/messages">Contato</a>
                 </p>
                 <hr>
             </div>
