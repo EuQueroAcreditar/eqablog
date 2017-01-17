@@ -14,14 +14,14 @@ Mistério resolvido! Trata-se apenas de mais uma permutação arbitrária dos qu
 <small><b>Imagem 1:</b> Associação dos 4 elementos alquimicos com elementos modernos<br>(Fonte: "The God Code", 2004)</small>
 </p>
 
-Como se não bastasse ter praticamente plagiado o *I Ching and the Genetic Code*, o *The God Code* ainda desfigurou totalmente o tetragrama YHVH para tornar ele compatível com seu [sistema guemátrico](https://pt.wikipedia.org/wiki/Guem%C3%A1tria) fictício que não tem sentido algum dentro do contexto judaico (Imagem 2). 
+Como se não bastasse ter praticamente plagiado o *I Ching and the Genetic Code*, o *The God Code* ainda desfigurou totalmente o tetragrama YHVH para tornar ele compatível com um sistema guemátrico que não tem sentido algum dentro do contexto judaico (Imagem 2). 
 
 <p class="center">
 <a href="/asset/img/the-god-code-2.png"><img src="/asset/img/the-god-code-2.png" style="max-width:100%" class="img-thumbnail"></a><br>
 <small><b>Imagem 2:</b> Associação dos 4 elementos com uma forma bizarra do tetragrama YHVH<br>(Fonte: "The God Code", 2004)</small>
 </p>
 
-Qualquer pessoa que entenda o mínimo de guematria sabe que as letras *C* e *G* em hebraico são representadas por *Gimel*. Trocar o ultimo *Heh* de YHVH por *Gimel* é um absurdo total pois ignora vários significados simbólicos atribuidos ao tetragrama YHVH (Imagem 3).
+Qualquer pessoa que entenda o mínimo de [guematria](https://pt.wikipedia.org/wiki/Guem%C3%A1tria) sabe que as letras *C* e *G* em hebraico são representadas por *Gimel*. Trocar o ultimo *Heh* de YHVH por *Gimel* é um absurdo total pois ignora vários significados simbólicos atribuidos ao tetragrama YHVH (Imagem 3).
 
 O autor Gregg Baden já foi [desacreditado a anos](https://www.youtube.com/watch?v=uoNmd5E0_gw), especialmente por sua teoria sobre as *emoções afetarem o DNA*. Já existe até uma [página na RationalWiki sobre ele](http://rationalwiki.org/wiki/Gregg_Braden). 
 
