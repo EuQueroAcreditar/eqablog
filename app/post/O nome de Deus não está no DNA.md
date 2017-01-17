@@ -4,6 +4,8 @@ Recentemente instalei uma [extensão para Firefox que bloqueia canais no YouTube
 
 Um desses canais me chamou a atenção pois nele havia um vídeo sobre [uma suposta assinatura de Deus no DNA](https://www.youtube.com/watch?v=IHK5cI6Xogs). Achei a aquilo curioso e fui pesquisar de onde saiu isso.
 
+## The God Code
+
 Pesquisando rapidamente encontrei um livro chamado *The God Code* (Gregg Baden, 2004) que falava justamente sobre isso. Foi ai que percebi que aquilo não era tão curioso pois já havia lido algo bem parecido no livro *I Ching and the Genetic Code* (Martin Schonberger, 1992).
 
 Trata-se apenas de uma permutação arbitrária dos quatro aminoácidos básicos por elementos da tabela periódica associados aos 4 elementos alquimicos (Imagem 1).
