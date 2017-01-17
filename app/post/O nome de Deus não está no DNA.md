@@ -6,7 +6,7 @@ Um desses canais me chamou a atenção pois nele havia um vídeo sobre [uma supo
 
 ## The God Code
 
-Pesquisando rapidamente encontrei um livro chamado *The God Code* (Gregg Baden, 2004) que falava justamente sobre isso. Foi ai que percebi que essa idéia era bem parecida com a do livro *I Ching and the Genetic Code* (Martin Schonberger, 1992) que associava o DNA aos [hexagramas do I Ching](https://pt.wikipedia.org/wiki/Hexagramas_(I_Ching)).
+Pesquisando rapidamente encontrei um livro chamado *The God Code* (Gregg Baden, 2004) que falava justamente sobre isso. Foi ai que vi que essa idéia era bem parecida com a do livro *I Ching and the Genetic Code* (Martin Schonberger, 1992) que associava o DNA aos [hexagramas do I Ching](https://pt.wikipedia.org/wiki/Hexagramas_(I_Ching)).
 
 Assim percebi que toda essa idéia de deus no DNA é apenas mais uma permutação arbitrária dos quatro aminoácidos básicos por elementos da tabela periódica associados aos 4 elementos alquimicos (Imagem 1).
 <p class="center">
