@@ -1,3 +1,5 @@
+Tue Jan 17 07:54:44 BRST 2017
+
 Recentemente instalei uma [extensão](https://addons.mozilla.org/en-US/firefox/addon/video-blocker/) para Firefox que bloqueia canais no YouTube. Sem demora comecei a bloquear todos canais de [FNORD](https://pt.wikipedia.org/wiki/FNORD) e [contos-da-carochinha](http://www.dicionarioinformal.com.br/conto-da-carochinha/) que vinham pela frente.
 
 Um desses canais me chamou a atenção pois nele havia um vídeo sobre [uma suposta assinatura de Deus no DNA](https://www.youtube.com/watch?v=IHK5cI6Xogs). Achei a aquilo curioso e fui pesquisar de onde saiu isso.
