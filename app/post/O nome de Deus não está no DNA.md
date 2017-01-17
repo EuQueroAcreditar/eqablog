@@ -7,14 +7,14 @@ Um desses canais me chamou a atenção pois nele havia um vídeo sobre [uma supo
 Pesquisando rapidamente encontrei um livro chamado *The God Code* (Gregg Baden, 2004) que falava justamente sobre isso. Foi ai que percebi que aquilo não era tão curioso pois já havia lido algo bem parecido no livro *I Ching and the Genetic Code* (Martin Schonberger, 1992).
 
 Trata-se apenas de uma permutação arbitrária dos quatro aminoácidos básicos por elementos da tabela periódica associados aos 4 elementos alquimicos (Imagem 1).
-<p class="text-center">
+<p class="center">
 <a href="/asset/img/the-god-code-1.png"><img src="/asset/img/the-god-code-1.png" style="max-width:100%" class="img-thumbnail"></a><br>
 <small><b>Imagem 1:</b> Associação dos 4 elementos alquimicos com elementos modernos<br>(Fonte: "The God Code", 2004)</small>
 </p>
 
 Como se não bastasse ter praticamente plagiado o *I Ching and the Genetic Code*, o *The God Code* ainda desfigurou totalmente o tetragrama YHVH para tornar ele compatível com um [sistema guemátrico](https://pt.wikipedia.org/wiki/Guem%C3%A1tria) fictício que não tem sentido algum (Imagem 2).
 
-<p class="text-center">
+<p class="center">
 <a href="/asset/img/the-god-code-2.png"><img src="/asset/img/the-god-code-2.png" style="max-width:100%" class="img-thumbnail"></a><br>
 <small><b>Imagem 2:</b> Associação dos 4 elementos com uma forma bizarra do tetragrama YHVH<br>(Fonte: "The God Code", 2004)</small>
 </p>
