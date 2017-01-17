@@ -14,7 +14,7 @@ Mistério resolvido! Trata-se apenas de mais uma permutação arbitrária dos qu
 <small><b>Imagem 1:</b> Associação dos 4 elementos alquimicos com elementos modernos<br>(Fonte: "The God Code", 2004)</small>
 </p>
 
-Como se não bastasse ter praticamente plagiado o *I Ching and the Genetic Code*, o *The God Code* ainda desfigurou totalmente o tetragrama YHVH para tornar ele compatível com um [sistema guemátrico](https://pt.wikipedia.org/wiki/Guem%C3%A1tria) fictício que não tem sentido algum dentro do contexto judaico (Imagem 2). 
+Como se não bastasse ter praticamente plagiado o *I Ching and the Genetic Code*, o *The God Code* ainda desfigurou totalmente o tetragrama YHVH para tornar ele compatível com seu [sistema guemátrico](https://pt.wikipedia.org/wiki/Guem%C3%A1tria) fictício que não tem sentido algum dentro do contexto judaico (Imagem 2). 
 
 <p class="center">
 <a href="/asset/img/the-god-code-2.png"><img src="/asset/img/the-god-code-2.png" style="max-width:100%" class="img-thumbnail"></a><br>
