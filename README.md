@@ -1,5 +1,5 @@
 # hgblog
-:alien: https://blog.euqueroacreditar.com
+:alien: http://blog.euqueroacreditar.com
 
 ## Requerimentos
 
