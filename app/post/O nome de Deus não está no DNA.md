@@ -25,7 +25,7 @@ Qualquer pessoa que entenda o mínimo de guematria sabe que as letras *C* e *G* 
 
 <p class="center">
 <a href="/asset/img/yhvh-ossos.jpg"><img src="/asset/img/yhvh-ossos.jpg" style="max-width:100%" class="img-thumbnail"></a><br>
-<small><b>Imagem 3:</b> Esse é apenas um dentre vários significados simbólicos atribuidos ao nome YHVH</small>
+<small><b>Imagem 3:</b> Apenas um dentre vários significados simbólicos atribuidos ao nome YHVH</small>
 </p>
 
 Para quem ficou curioso sobre o autor do livro Gregg Baden, ele já foi [desacreditado a anos](https://www.youtube.com/watch?v=uoNmd5E0_gw), especialmente por sua teoria sobre as *emoções afetarem o DNA*. Já existe até uma [página na RationalWiki sobre ele](http://rationalwiki.org/wiki/Gregg_Braden). 
