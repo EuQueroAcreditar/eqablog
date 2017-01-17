@@ -21,11 +21,11 @@ Como se não bastasse ter praticamente plagiado o *I Ching and the Genetic Code*
 <small><b>Imagem 2:</b> Associação dos 4 elementos com uma forma bizarra do tetragrama YHVH<br>(Fonte: "The God Code", 2004)</small>
 </p>
 
-Qualquer pessoa que entenda o mínimo de gematria sabe que as letras *C* e *G* em hebraico são representadas por *Gimel*. Trocar o ultimo *Heh* de YHVH por *Gimel* é um absurdo total pois desvirtua vários significados atribuidos ao tetragrama YHVH (Imagem 3).
+Qualquer pessoa que entenda o mínimo de gematria sabe que as letras *C* e *G* em hebraico são representadas por *Gimel*. Trocar o ultimo *Heh* de YHVH por *Gimel* é um absurdo total pois desvirtua vários significados simbólicos atribuidos ao tetragrama YHVH (Imagem 3).
 
 <p class="center">
 <a href="/asset/img/yhvh-ossos.jpg"><img src="/asset/img/yhvh-ossos.jpg" style="max-width:100%" class="img-thumbnail"></a><br>
-<small><b>Imagem 3:</b> Esse é apenas um entre vários significados simbólicos atribuidos ao nome YHVH</small>
+<small><b>Imagem 3:</b> Esse é apenas um dentre vários significados simbólicos atribuidos ao nome YHVH</small>
 </p>
 
 Para quem ficou curioso sobre o autor do livro Gregg Baden, ele já foi [desacreditado a anos](https://www.youtube.com/watch?v=uoNmd5E0_gw), especialmente por sua teoria sobre as *emoções afetarem o DNA*. Já existe até uma [página sobre ele na RationalWiki](http://rationalwiki.org/wiki/Gregg_Braden). 
