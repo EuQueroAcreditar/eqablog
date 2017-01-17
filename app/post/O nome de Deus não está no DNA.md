@@ -2,13 +2,13 @@ Tue Jan 17 07:54:44 BRST 2017
 
 Recentemente instalei uma [extensão para Firefox que bloqueia canais no YouTube](https://addons.mozilla.org/en-US/firefox/addon/video-blocker/). Sem demora comecei a bloquear todos canais de [FNORD](https://pt.wikipedia.org/wiki/FNORD) e contos-da-carochinha que vinham pela frente.
 
-Um desses canais me chamou a atenção pois nele havia um vídeo sobre [uma suposta assinatura de Deus no DNA](https://www.youtube.com/watch?v=IHK5cI6Xogs). Achei a aquilo curioso e fui pesquisar de onde saiu isso.
+Um desses canais me chamou a atenção pois nele havia um vídeo sobre [uma suposta assinatura de Deus no DNA](https://www.youtube.com/watch?v=IHK5cI6Xogs). Achei a aquilo curioso e fui pesquisar de onde saiu essa idéia.
 
 ## The God Code
 
-Pesquisando rapidamente encontrei um livro chamado *The God Code* (Gregg Baden, 2004) que falava justamente sobre isso. Foi ai que percebi que aquilo não era tão curioso pois já havia lido algo bem parecido no livro *I Ching and the Genetic Code* (Martin Schonberger, 1992).
+Pesquisando rapidamente encontrei um livro chamado *The God Code* (Gregg Baden, 2004) que falava justamente sobre isso. Foi ai que percebi que aquilo não era tão curioso pois já havia lido algo bem parecido no livro *I Ching and the Genetic Code* (Martin Schonberger, 1992) que associavas o DNA aos [hexagramas do I Ching](https://pt.wikipedia.org/wiki/Hexagramas_(I_Ching)).
 
-Trata-se apenas de uma permutação arbitrária dos quatro aminoácidos básicos por elementos da tabela periódica associados aos 4 elementos alquimicos (Imagem 1).
+Mistério resolvido! Trata-se apenas de mais uma permutação arbitrária dos quatro aminoácidos básicos por elementos da tabela periódica associados aos 4 elementos alquimicos (Imagem 1).
 <p class="center">
 <a href="/asset/img/the-god-code-1.png"><img src="/asset/img/the-god-code-1.png" style="max-width:100%" class="img-thumbnail"></a><br>
 <small><b>Imagem 1:</b> Associação dos 4 elementos alquimicos com elementos modernos<br>(Fonte: "The God Code", 2004)</small>
