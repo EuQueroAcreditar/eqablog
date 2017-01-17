@@ -21,25 +21,26 @@
     <div class="c">
         <div class="r">
             <div class="g12">
-                <p class="center">
+                <div class="center">
                     <img src="/asset/img/favicon.png" width="150" style="border:0;" alt="Hacker Gaucho">
                     <br>
-                    <a href="/page/Sobre">Sobre</a> <!--»
-                    <a href="/">Contato</a>-->
-                </p>
+                    <a href="/page/Sobre">Sobre</a>
+                </div>
                 <hr>
             </div>
-            <div class="g3">
-                <h1>Menu</h1>
-                <ul>
-                    <li><a href="/">Home</a></li>
-                </ul>
+        </div>
+        <div class="r">
+            <div class="g2 d">
+                &nbsp;
             </div>
-            <div class="g9">
+            <div class="g8">
                 <?php print @$content;?>
             </div>
+            <div class="g2 d">
+                &nbsp;
+            </div>
         </div>
-        <div class="row">
+        <div class="r">
             <div class="g12 text-center">
                 <hr>
                 <p class="center">
