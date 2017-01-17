@@ -1,5 +1,5 @@
 # hgblog
-:notebook: https://blog.hackergaucho.com
+:alien: https://blog.euqueroacreditar.com
 
 ## Requerimentos
 
