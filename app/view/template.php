@@ -11,7 +11,7 @@
     ?>
     <title><?php print @$title;?></title>
     <!-- bower:css -->
-    <link rel="stylesheet" href="../../bower_components/1k/dist/1k.min.css?v=1.1.1" />
+    <link rel="stylesheet" href="../../bower_components/1k/dist/1k.css" />
     <!-- endbower -->
     <!-- bower:js -->
     <!-- endbower -->
@@ -33,7 +33,6 @@
                 <h1>Menu</h1>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li><a href="/page/11_passos_para_o_back-end">11 passos para o back-end</a></li>
                 </ul>
             </div>
             <div class="g9">
@@ -44,8 +43,8 @@
             <div class="g12 text-center">
                 <hr>
                 <p class="center">
-                    <a href="https://fb.com/aicoutos">Facebook</a> »
-                    <a href="https://github.com/aicoutos">Github</a>
+                    <a href="https://fb.com/eqasite">Facebook</a> »
+                    <a href="https://github.com/euqueroacreditar">Github</a>
                 </p>
             </div>
         </div>
