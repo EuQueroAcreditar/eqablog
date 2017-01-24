@@ -4,7 +4,7 @@ Sistemas de linguagem baseados em signos tem sido os mais populares a milhares d
 
 Na verdade, o alfabeto fenício aponta para um beco sem saída. Apesar de alguns caracteres lembrarem bastante constelações do zodiaco a sua origem está associada também ao misterioso alfabeto egípcio e aos hieroglífos. 
 
-O fato é que o alfabeto fenício parece com a simplificação de hieroglífos bastante conhecidos, fato. Seja como for preciso estudar a origem dos alfabeto mais a fundo antes de dizer algo mais sobre eles.
+As letras do alfabeto fenício parecem uma simplificação de hieroglífos bastante conhecidos, isto é um fato. Seja como for preciso estudar a origem dos alfabeto mais a fundo antes de escrever sobre eles.
 
 ## Signos, cultura a pedagogia
 
