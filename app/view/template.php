@@ -22,8 +22,11 @@
         <div class="r">
             <div class="g12">
                 <div class="center">
+                    <a href="/">
                     <img src="/asset/img/favicon.png" width="150" style="border:0;" alt="Hacker Gaucho">
+                    </a>
                     <br>
+                    <a href="/">Home</a> |
                     <a href="/page/Sobre">Sobre</a>
                 </div>
                 <hr>
