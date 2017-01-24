@@ -14,16 +14,18 @@ Acredito realmente que a linguagem nos divide mais do que nos aproxima. Pequenas
 
 ## Ciências humanas vs. ciências exatas
 
-Por que a cartografia e a geometria é tão negligenciada em nossos sistemas de ensino? Por acaso o estudo da gramática das linguas naturais é mais importantes do que a analise de fotografias aéreas, do espectro sonoro ou até mesmo do alfabeto fonético internacional?
+Por que a cartografia e a geometria são tão negligenciadas em nossos sistemas de ensino? Por acaso o estudo da gramática das linguas naturais é mais importantes do que a analise de fotografias aéreas, do espectro sonoro ou até mesmo do alfabeto fonético internacional?
 
-Isso soa tão absurdo. Para mim estudar a semântica das palavras sem antes estudar a sintaxe é a formula certa para fabricar analfabetos funcionais.
+Isso soa tão absurdo. Para mim estudar a semântica das palavras sem antes estudar a sintaxe é a formula certa para fabricar analfabetos funcionais. A semântica é escrava da sintaxe, já a reciproca não parece verdadeira. 
 
-Porque estudar o uso dos porques se o aluno ainda comete erros de sintaxe grosseiros? Está certo que o Google corrige a sintaxe rapidamente, mas de que isso adianta se o aluno não pode usar o Google dentro da sala de aula?
+Porque estudar a semântica dos porques se o aluno continuará a cometer esse e outros erros de sintaxe semelhantes? Não seria melhor aderir ao internetês ao invés de perdermos tempo com esse tipo de detalhe besta que não agrega nenhum valor signico especial?
+
+Está certo que o Google corrige a sintaxe rapidamente, mas de que isso adianta se o aluno não pode usar o Google dentro da sala de aula? Precisamos nos esforçar mais para incorporar esse tipo de tecnologia também dentro das salas de aula.
 
 ## A sintaxe como o fio da meada
 
 Não tenho certeza ainda, mas tenho uma forte impressão de que começar estudando a sintaxe e a fonética da lingua antes de estudar as regras gramaticais é a forma mais eficiente e inteligente de aprender qualquer idioma.
 
-Também é preciso estudar geopolítica, especialmente sobre uma perspectiva geológica e climática. Se uma pessoa não sabe o básico sobre ela ou sobre a diversidade linguística do mundo ela acaba ficando alienada a sua cultura, um alvo fácil para políticos e religiosos manipuladores.
+Também é preciso estudar geopolítica, especialmente sobre uma perspectiva geológica e climática. Se uma pessoa não sabe o básico sobre ela ou sobre a diversidade linguística do mundo ela acaba ficando alienada a sua cultura, tornando-se assum um alvo fácil para políticos e religiosos manipuladores.
 
 É preciso criar meios para facilitar o acesso humano a área de exatas. Todas ferramentas que nos aproximem dessa área são bem vindas.
