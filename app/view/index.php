@@ -7,7 +7,9 @@ if(is_null($posts)){
 }else{
 $status='none';
 $data['content'].=<<<heredoc
-<input type="text" id="buscaDePost" onkeyup="filtrarPosts()" placeholder="Filtrar posts.." title="Type in a name">
+<div class="row-fluid">
+<input class="span12" type="text" id="buscaDePost" onkeyup="filtrarPosts()" placeholder="Filtrar posts.." title="Type in a name">    
+</div>
 <ul id="posts">
 $posts
 </ul>
@@ -22,10 +24,10 @@ function filtrarPosts() {
     for (i = 0; i < post.length; i++) {
         link = post[i].getElementsByTagName("a")[0];
         if (link) {
-            if (link.innerHTML.toUpperCase().indexOf(filter) > -1) {       
+            if (link.innerHTML.toUpperCase().indexOf(filter) > -1) {
                 post[i].style.display = "";
 
-            } else {          
+            } else {
                 post[i].style.display = "none";
             }
         }
@@ -40,12 +42,12 @@ function filtrarPosts() {
 		return getComputedStyle(el).display !== "none"
 	});
 	var numberOfHiddenPosts = displayNone.length;
-	var numberOfVisiblePosts = displayShow.length;    
-    
+	var numberOfVisiblePosts = displayShow.length;
+
     if(numberOfVisiblePosts>0){
-    	status.style.display = "none";         
+    	status.style.display = "none";
     }else{
-        status.style.display = "block";      
+        status.style.display = "block";
     }
 }
 </script>
