@@ -121,7 +121,7 @@
                 <div class="span12 text-center">
                     <hr>
                     <p class="text-center">
-                    <a href="https://facebook.com/eqasite">Facebook</a> »
+                    <a href="https://facebook.com/groups/eqasite">Facebook</a> »
                     <a href="https://github.com/euqueroacreditar">Github</a>
                     </p>
                 </div>
